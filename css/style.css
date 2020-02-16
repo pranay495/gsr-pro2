@@ -1313,17 +1313,17 @@ h3 {
 }
 
 /* line 1, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_slider.scss */
-.slider_bg_1 {
+/* .slider_bg_1 {
   background-image: url(../img/banner/banner.jpg);
-}
+} */
 
 /* line 4, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_slider.scss */
 .slider_bg_2 {
-<<<<<<< HEAD
   background-image: url(../img/banner/banner1.png);
-=======
-  background-image: url(../img/banner/banner1.jpg);
->>>>>>> ed5c32ca50b8a1453bb6534fd86a51b5da4a51e9
+
+}
+.slider_bg_3 {
+  background-image: url(../img/images/hero-1.jpg);
 }
 
 /* line 8, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_slider.scss */
@@ -1837,7 +1837,7 @@ h3 {
 
 /* line 2, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_testmonial.scss */
 .testimonial_area {
-  background-image: url(../img/banner/testmonial.png);
+  background-image: url(../img/images/counter-bg.jpg);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -3456,7 +3456,7 @@ h3 {
 /* <<<<<<< HEAD
   background-image: url(../img/banner/banner1.jpg);
 ======= */
-  background-image: url(../img/banner/banner.jpg);
+  background-image: url(../img/images/breadcrumb-bg.jpg);
 /* >>>>>>> ed5c32ca50b8a1453bb6534fd86a51b5da4a51e9 */
 }
 
@@ -7328,5 +7328,19 @@ h6 {
   margin-right: 10px;
   font-size: 12px;
 }
+
+.mapouter{
+  position:relative;
+  text-align:right;
+  height:500px;
+  width:100%;
+  }
+.gmap_canvas {
+  overflow:hidden;
+  background:none!important;
+  height:500px;
+  width:100%;
+}
+
 
 /*# sourceMappingURL=style.css.map */
