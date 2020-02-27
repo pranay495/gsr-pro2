@@ -635,6 +635,11 @@ h3 {
   color: #fff;
 }
 
+.d-sm-block{
+
+  display: block !important;
+}
+
 /* line 2, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_section_title.scss */
 .section_title h3 {
   font-size: 46px;
