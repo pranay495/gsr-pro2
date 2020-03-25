@@ -162,7 +162,8 @@ center: false,
           items:3,
           nav:false
       },
-      1200:{
+      1200:
+	  {
           items:3,
           nav:false
       },
@@ -376,7 +377,7 @@ $(document).ready(function() {
 
 
 //------- Mailchimp js --------//  
-function mailChimp() {
+/*function mailChimp() {
   $('#mc_embed_signup').find('form').ajaxChimp();
 }
 mailChimp();
@@ -399,4 +400,4 @@ mailChimp();
             $("#search_input").focus();
         });
 
-})(jQuery);	
+})(jQuery);	*/
